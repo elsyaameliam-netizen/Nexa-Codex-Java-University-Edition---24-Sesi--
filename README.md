@@ -88,7 +88,7 @@ Setiap sesi dirancang untuk dikerjakan menggunakan lingkungan pengembangan moder
 
 1.  **Clone Repository ini:**
     ```bash
-    git clone (https://github.com/Thufail-fitra/Nexa-Codex-Java-University-Edition---24-Sesi--.git)
+    git clone https://github.com/Thufail-fitra/Nexa-Codex-Java-University-Edition---24-Sesi--.git
     ```
 2.  Buka folder di **VS Code**.
 3.  Buka folder `Level 1/Modul 1` dan pilih `Sesi1.java`.
